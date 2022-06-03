@@ -5,3 +5,4 @@ git push
 git add -A
 git commit -m "message"
 git command
+git push lab
