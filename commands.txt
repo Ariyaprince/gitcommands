@@ -4,3 +4,4 @@ git clone
 git push
 git add -A
 git commit -m "message"
+git command
